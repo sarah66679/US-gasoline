@@ -1,6 +1,6 @@
 # The Consumption and Price of Gasoline in U.S.
 ### MiSK Academy and General Assembly
-##### Abeer Alshathri, sarah Alasaadi
+##### sarah Alasaadi
 
 
 
